@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">20SOECA21015</string>
+    <string name="app_title">About</string>
+    <string name="er_no">20SOECA21015</string>
+    <string name="fnm">Mansi</string>
+    <string name="mdlnm">Kaneshbhai</string>
+    <string name="lnm">Jalalji</string>
+    <string name="email">mjalalji995@rku.ac.in</string>
+    <string name="password">mj112</string>
+    <string name="gender">Female</string>
+    <string name="city">Rajkot</string>
+</resources>
